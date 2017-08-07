@@ -1,11 +1,11 @@
-title: marcelofpfelix
+title: marcelofpfelix title
 name: marcelofpfelix - webpage
 description: > # this means to ignore newlines
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
+  This is a  description for your new site here.
+  It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-author: marcelofpfelix
+author: author: marcelofpfelix
 email: marcelo.felix@maro.live
 twitter_username: marcelofpfelix
 github_username:  marcelofpfelix
