@@ -1,1 +1,10 @@
+title: marolive
+name: marolive - webpage
+description: This is the marolive webpage
+
+#Global Configuration
+timezone: Europe/Lisbon
+
+repository: marcelofpfelix/marcelofpfelix.github.io
+
 theme: jekyll-theme-leap-day
