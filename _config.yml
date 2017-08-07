@@ -1,10 +1,17 @@
-title: marolive
-name: marolive - webpage
-description: This is the marolive webpage
+title: marcelofpfelix
+name: marcelofpfelix - webpage
+description: > # this means to ignore newlines
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+author: marcelofpfelix
+email: marcelo.felix@maro.live
+twitter_username: marcelofpfelix
+github_username:  marcelofpfelix
+repository: marcelofpfelix/marcelofpfelix.github.io
 
 #Global Configuration
 timezone: Europe/Lisbon
-
-repository: marcelofpfelix/marcelofpfelix.github.io
-
-theme: jekyll-theme-leap-day
+theme: minima
+markdown: kramdown
