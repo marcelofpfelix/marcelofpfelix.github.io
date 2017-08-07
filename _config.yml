@@ -5,7 +5,7 @@ description: > # this means to ignore newlines
   It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-author: author: marcelofpfelix
+author: authorname
 email: marcelo.felix@maro.live
 twitter_username: marcelofpfelix
 github_username:  marcelofpfelix
